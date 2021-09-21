@@ -1,6 +1,6 @@
 # Flutter Input Field and Validations
 
-A new Flutter project.
+A basic flutter form creations and input field validations with regex.
 
 ## Getting Started
 
